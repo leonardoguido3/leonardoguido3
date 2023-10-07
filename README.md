@@ -12,9 +12,8 @@
   <p>🌱 Aprendendo novas coisas todos os dias</p>
 
    <h2>Redes Sociais</h2>
-   
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](link_do_seu_perfil_no_LinkedIn)
-   [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](link_do_seu_perfil_no_Twitter)
+  <a href="link_do_seu_perfil_no_LinkedIn">LinkedIn</a>
+  <a href="link_do_seu_perfil_no_Twitter">Twitter</a>
 
 
   <h2>Contato</h2>
