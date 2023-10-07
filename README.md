@@ -12,12 +12,10 @@
   <p>🌱 Aprendendo novas coisas todos os dias</p>
 
    <h2>Redes Sociais</h2>
-  <a href="link_do_seu_perfil_no_LinkedIn" class="social-button linkedin">
-    <i class="fab fa-linkedin"></i> LinkedIn
-  </a>
-  <a href="link_do_seu_perfil_no_Twitter" class="social-button twitter">
-    <i class="fab fa-twitter"></i> Twitter
-  </a>
+   
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](link_do_seu_perfil_no_LinkedIn)
+   [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](link_do_seu_perfil_no_Twitter)
+
 
   <h2>Contato</h2>
   <p class="contact-info">✉️ Email: leonardoguido3@gmail.com</p>
