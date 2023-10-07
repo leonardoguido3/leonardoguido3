@@ -1,27 +1,26 @@
 <!-- Leonardo Guido -->
-# Olá, eu sou o Leo 👋
-
-<div align="center">
+<div align="center" style="text-align: center;">
   <a href="https://github.com/leonardoguido3">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leonardoguido3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoguido3&layout=compact&langs_count=7&theme=dark"/>
-</div>
-    
-## Sobre Mim
-- 💻 Desenvolvedor de Software
-- 🌍 Apaixonado por tecnologia
-- 🎓 Analista Desenvolvedor e Analista de Redes
-- 🌱 Aprendendo novas coisas todos os dias
-  
-## Linguagens de Programação
-- .NET
-- JavaScript
-- HTML/CSS
-- Cobol
-- 
-## Redes Sociais
-- [LinkedIn](link_do_seu_perfil_no_LinkedIn)
-- [Twitter](link_do_seu_perfil_no_Twitter)
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leonardoguido3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoguido3&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 
-## Contato
-- ✉️ Email: leonardoguido3@gmail.com
+  <h2>Sobre Mim</h2>
+  <p>💻 Desenvolvedor de Software</p>
+  <p>🌍 Apaixonado por tecnologia</p>
+  <p>🎓 Analista Desenvolvedor e Analista de Redes</p>
+  <p>🌱 Aprendendo novas coisas todos os dias</p>
+
+  <h2>Linguagens de Programação</h2>
+  <p>.NET</p>
+  <p>JavaScript</p>
+  <p>HTML/CSS</p>
+  <p>Cobol</p>
+
+  <h2>Redes Sociais</h2>
+  <a href="link_do_seu_perfil_no_LinkedIn">LinkedIn</a>
+  <a href="link_do_seu_perfil_no_Twitter">Twitter</a>
+
+  <h2>Contato</h2>
+  <p>✉️ Email: leonardoguido3@gmail.com</p>
+</div>
