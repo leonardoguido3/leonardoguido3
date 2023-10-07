@@ -6,13 +6,14 @@
 ## Sobre Mim
 - 💻 Desenvolvedor de Software
 - 🌍 Apaixonado por tecnologia
-- 🎓 Bacharel em Ciência da Computação
+- 🎓 Analista Desenvolvedor e Analista de Redes
 - 🌱 Aprendendo novas coisas todos os dias
 
 ## Linguagens de Programação
-- Python
+- .NET
 - JavaScript
 - HTML/CSS
+- Cobol
 
 ## Projetos
 - [Projeto 1](link_projeto_1)
@@ -23,6 +24,6 @@
 - [Twitter](link_do_seu_perfil_no_Twitter)
 
 ## Contato
-- ✉️ Email: seu_email@example.com
+- ✉️ Email: leonardoguido3@gmail.com
 
 <!-- Você pode adicionar mais seções e informações conforme desejar -->
