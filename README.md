@@ -1,5 +1,5 @@
 <!-- Leonardo Guido -->
-![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5udWhycnFqajh1aHZudXZ2cDU1djJoY2tmemJ5NDF5eXNnZTJnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giphy.gif)
+![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5udWhycnFqajh1aHZudXZ2cDU1djJoY2tmemJ5NDF5eXNnZTJnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif)
 
 # Olá, eu sou o Leo 👋
 
