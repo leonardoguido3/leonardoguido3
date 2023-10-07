@@ -8,7 +8,7 @@
 - 🌍 Apaixonado por tecnologia
 - 🎓 Analista Desenvolvedor e Analista de Redes
 - 🌱 Aprendendo novas coisas todos os dias
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ## Linguagens de Programação
 - .NET
 - JavaScript
