@@ -14,7 +14,7 @@
    <h2>Redes Sociais</h2>
   <a href="link_do_seu_perfil_no_LinkedIn">LinkedIn</a>
   <a href="link_do_seu_perfil_no_Twitter">Twitter</a>
-
+  <a href="mailto:leonardoguido3@gmail.com">leonardoguido3@gmail.com</a>
 
   <h2>Contato</h2>
   <p class="contact-info">✉️ Email: leonardoguido3@gmail.com</p>
