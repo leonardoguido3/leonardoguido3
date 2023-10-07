@@ -1,6 +1,9 @@
 <!-- Leonardo Guido -->
-![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5udWhycnFqajh1aHZudXZ2cDU1djJoY2tmemJ5NDF5eXNnZTJnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif)
-
+<div align="center">
+  <a href="https://github.com/leonardoguido3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoguido3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoguido3&layout=compact&langs_count=7&theme=dark"/>
+</div>
 # Olá, eu sou o Leo 👋
 
 ## Sobre Mim
@@ -8,7 +11,7 @@
 - 🌍 Apaixonado por tecnologia
 - 🎓 Analista Desenvolvedor e Analista de Redes
 - 🌱 Aprendendo novas coisas todos os dias
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
 ## Linguagens de Programação
 - .NET
 - JavaScript
