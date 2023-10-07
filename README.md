@@ -1,5 +1,7 @@
 <!-- Leonardo Guido -->
-# Olá, eu sou o Leo 👋    ![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5udWhycnFqajh1aHZudXZ2cDU1djJoY2tmemJ5NDF5eXNnZTJnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif)
+![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5udWhycnFqajh1aHZudXZ2cDU1djJoY2tmemJ5NDF5eXNnZTJnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giphy.gif)
+
+# Olá, eu sou o Leo 👋
 
 ## Sobre Mim
 - 💻 Desenvolvedor de Software
@@ -23,5 +25,3 @@
 
 ## Contato
 - ✉️ Email: leonardoguido3@gmail.com
-
-<!-- Você pode adicionar mais seções e informações conforme desejar -->
